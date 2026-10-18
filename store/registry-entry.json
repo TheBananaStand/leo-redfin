@@ -1,18 +1,18 @@
 {
-  "name": "redfin-mcp",
+  "name": "redfin",
   "label": "Redfin",
   "description": "Redfin listings, walk scores, mortgage rates and agents, installed at runtime — no rebuild.",
   "icon": "map-pin",
   "version": "1.0.0",
   "author": "TheBananaStand",
-  "homepage": "https://github.com/TheBananaStand/leo-redfin-mcp",
+  "homepage": "https://github.com/TheBananaStand/leo-redfin",
   "category": "package",
   "mcp": {
     "transport": "stdio",
     "command": "npx",
     "args": [
       "-y",
-      "https://github.com/TheBananaStand/leo-redfin-mcp/archive/a742c51d79d5d81fccd2ab8fa9c72246efca910f.tar.gz"
+      "https://github.com/TheBananaStand/leo-redfin/archive/a742c51d79d5d81fccd2ab8fa9c72246efca910f.tar.gz"
     ]
   },
   "descriptor": {

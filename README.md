@@ -1,4 +1,4 @@
-# leo-redfin-mcp
+# leo-redfin
 
 Redfin real estate as a Leo package, over MCP — listings, property details,
 walk scores, mortgage rates and local agents, from the Unofficial Redfin API on
