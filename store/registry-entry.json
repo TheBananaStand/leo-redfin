@@ -12,7 +12,7 @@
     "command": "npx",
     "args": [
       "-y",
-      "https://github.com/TheBananaStand/leo-redfin/archive/a742c51d79d5d81fccd2ab8fa9c72246efca910f.tar.gz"
+      "https://github.com/TheBananaStand/leo-redfin/archive/41ae1e2808adc620153fd8afbc362be826ccf74f.tar.gz"
     ]
   },
   "descriptor": {
